@@ -25,7 +25,7 @@ section{padding:clamp(64px,9vw,130px) clamp(20px,6vw,100px)}
 h3{font-weight:500;font-size:clamp(26px,3vw,36px);line-height:1.15;margin:8px 0 14px;color:var(--navy);text-transform:uppercase;letter-spacing:.03em}
 .about{background:var(--navy);color:#fff}
 .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:30px;padding-bottom:clamp(50px,7vw,90px);border-bottom:1px solid rgba(161,220,242,.3)}
-.stats b{display:block;font-weight:300;font-size:clamp(38px,5.4vw,76px);line-height:1.05;color:var(--sky)}
+.stats b{display:block;font-weight:300;font-size:clamp(30px,4vw,60px);white-space:nowrap;line-height:1.05;color:var(--sky)}
 .stats span{display:block;margin-top:8px;font-size:16px;opacity:.85}
 .team{display:grid;grid-template-columns:5fr 6fr;gap:clamp(30px,6vw,100px);align-items:center;padding-top:clamp(50px,7vw,90px)}
 .team img{width:100%;aspect-ratio:4/5;object-fit:cover}
